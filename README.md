@@ -1,3 +1,4 @@
+> 28/11/2025: This plugin was not your typical plugin and not your recommendation. It could potentially flood your console log with server based events. Either way, I'm not planning to continue this plugin nor even improve my English on this README
 # General
 A PocketMine plugin that allows you to see what players are doing and interacting!
 
